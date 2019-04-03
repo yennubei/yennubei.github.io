@@ -3,12 +3,16 @@ Tamale
 <!DOCYPE html>
 <html>
 <head>
-	<title>MOHAMMED</title>
+	<title>TAMALE TOURISM</title>
+	<style>
+		h1{
+			color: green;
+			background-color: blue;
+		}
+	</style>
 </head>
 <body>
-<h1>My first Heading</h1>
-<p style="border: -5px solid red;">My first paragraph.</p>
-<img src="australia.png"><br>
-<a href="https://www.facebook.com" target="_blank" >click here</a>
+<h1>TAMALE</h1>
+
 </body>
 </html>
